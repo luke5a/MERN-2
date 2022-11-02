@@ -1,4 +1,3 @@
-import React from "react";
 import MyCounter from "./components/MyCounter";
 import MyGitHub from "./components/MyGitHub";
 
